@@ -6,7 +6,7 @@ After hitting the arrow to run the game, you can use WASD to move and space to j
 
 Here is a short demo of the game being played and a walkthrough of the code:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/c-yYjjf84_A)
 
 # Development Environment
 
